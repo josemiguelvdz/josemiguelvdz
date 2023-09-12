@@ -30,3 +30,7 @@
 ### Github Stats 🏄
 ![Gh](https://github-readme-stats.vercel.app/api?username=josemiguelvdz&show_icons=true&title_color=fff&icon_color=81ACF3&text_color=9f9f9f&bg_color=151515&count_private=true)
 
+### Where to find me 📞
+<a href="https://www.linkedin.com/in/josé-miguel-villacañas-973408253">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.discordapp.com/users/324609826770649091">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
+
